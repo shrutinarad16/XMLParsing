@@ -30,7 +30,6 @@ It’s built in **Visual Studio**, showcasing how to efficiently handle XML file
 ---
 
 
----
 
 ## ⚙️ How to Run the Project
 
@@ -58,7 +57,7 @@ Navigate to the XML parsing page
 
 Choose your XML file and click Parse
 
-
+---
 ## Outpul 
 
 ```xml
