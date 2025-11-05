@@ -1,0 +1,10 @@
+C:\Users\shruti.narad\source\repos\XMLParsing\XMLParsing\bin\Debug\XMLParsing.exe.config
+C:\Users\shruti.narad\source\repos\XMLParsing\XMLParsing\bin\Debug\XMLParsing.exe
+C:\Users\shruti.narad\source\repos\XMLParsing\XMLParsing\bin\Debug\XMLParsing.pdb
+C:\Users\shruti.narad\source\repos\XMLParsing\XMLParsing\obj\Debug\XMLParsing.csproj.AssemblyReference.cache
+C:\Users\shruti.narad\source\repos\XMLParsing\XMLParsing\obj\Debug\XMLParsing.Form1.resources
+C:\Users\shruti.narad\source\repos\XMLParsing\XMLParsing\obj\Debug\XMLParsing.Properties.Resources.resources
+C:\Users\shruti.narad\source\repos\XMLParsing\XMLParsing\obj\Debug\XMLParsing.csproj.GenerateResource.cache
+C:\Users\shruti.narad\source\repos\XMLParsing\XMLParsing\obj\Debug\XMLParsing.csproj.CoreCompileInputs.cache
+C:\Users\shruti.narad\source\repos\XMLParsing\XMLParsing\obj\Debug\XMLParsing.exe
+C:\Users\shruti.narad\source\repos\XMLParsing\XMLParsing\obj\Debug\XMLParsing.pdb
